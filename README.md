@@ -1,3 +1,5 @@
+***HealthWatch AI***
+
 **Inspiration**  
 The concept for HealthWatch AI emerged from witnessing my brother's struggles to receive proper medical attention while incarcerated. Medical neglect in correctional facilities is a pervasive issue, often forcing inmates to submit multiple medical requests just to be taken seriously. My vision for HealthWatch AI is to eliminate this neglect, ensuring that inmates do not have to be on the brink of a health crisis to receive the care they need.
 
